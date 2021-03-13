@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="my_test1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C02EX12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="atoi_numeral.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C05_F_ex00_T_ex05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C05_F_ex06_T_ex07.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="rush01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c00ex06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arrponter.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C03EX00.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C03EX01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C03EX02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C03EX03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C03EX04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C04EX00.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C04EX01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C04EX02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ft_putchar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C04EX03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C05EX00.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C05EX01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C05EX02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C05EX03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C05EX04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C05EX05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C05EX06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C00EX08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C01EX07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C01EX08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C03EX05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C06EX03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C05EX07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C04EX04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C04EX05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C02EX00.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C02EX01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C02EX02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C02EX03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C02EX04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C02EX05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C02EX06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C02EX07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C02EX08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C02EX09.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C02EX10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C02EX11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C05EX08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
