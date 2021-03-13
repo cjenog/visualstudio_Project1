@@ -156,5 +156,11 @@
     <ClCompile Include="C05EX08.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="FT_ATOI.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FT_PUTNBR_BASE.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

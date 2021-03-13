@@ -56,7 +56,7 @@ int main()
 	ft_print_combn(3);
 	return 0;
 }
-*/
+
 
 #include <io.h>
 #include <stdio.h>
@@ -130,3 +130,4 @@ int main(void)
 	printf("%d\n", ft_ten_queens_puzzle());
 	return (0);
 }
+*/

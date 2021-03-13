@@ -161,6 +161,8 @@
     <ClCompile Include="C05EX07.c" />
     <ClCompile Include="C05EX08.c" />
     <ClCompile Include="C06EX03.c" />
+    <ClCompile Include="FT_ATOI.c" />
+    <ClCompile Include="FT_PUTNBR_BASE.c" />
     <ClCompile Include="pointer.c" />
     <ClCompile Include="C03EX01.c" />
     <ClCompile Include="C03EX02.c" />

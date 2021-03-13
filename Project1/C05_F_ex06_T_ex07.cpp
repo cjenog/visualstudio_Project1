@@ -1,5 +1,6 @@
-#include <stdio.h>
 /*
+#include <stdio.h>
+
 int ft_is_prime(int nb)		// 이 함수의 장점은 간단하다는건데, 문제는 nb숫자가 20억이라면? 반복문을 20억번 돌려야한다. 비효율적인 코드임.
 {
 	int i = 2;				// 1은 무조건 나눠지므로 1을 제외하기위해 2부터 계산
