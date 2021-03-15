@@ -162,5 +162,20 @@
     <ClCompile Include="FT_PUTNBR_BASE.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="C07EX02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C07EX03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C07EX04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C07EX04_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C07EX04_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
